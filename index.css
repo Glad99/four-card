@@ -151,7 +151,7 @@ img{
 .second-card, 
 .third-card, 
 .fourth-card {
-    -webkit-box-shadow: 1px 13px 25px 0px  hsl(213, 27%, 76%)
+    box-shadow: 1px 13px 25px 0px  hsl(213, 27%, 76%);
 }
 .foot{
     font-size: 15px;
